@@ -31,5 +31,3 @@ Thank you for your time and consideration.
 
 Sincerely,
 Lokesh Yadavalli
-<hr>
-<hr>
